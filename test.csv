@@ -1,57 +1,49 @@
 ,0,1,2
-0,Nucleic Acid Research,Nucleic Acids Research,26
-1,Plos one Negected Tropical Diseases,Plos one Neglected Tropical Diseases,20
+0,Plosone,Plos One,192
+1,Plos Negected Tropical Diseases,Plos Neglected Tropical Diseases,20
 2,Pain,Brain,14
-3,Plos one 1,Plos one,13
-4,Biochemical Journals,Biochemical Journal,12
-5,Development Cell,Developmental Cell,12
-6,Bjp,Bmj,10
-7,Heptology,Hepatology,8
-8,Journal of Medicial Chemistry,Journal Of Medicinal Chemistry,7
-9,Rna,Pnas,6
-10,Pntd,Pnas,6
-11,"Journal Of The Royal Society, Interface",Journal Of The Royal Society Interface,6
-12,British Jounal Of Pharmacology,British Journal Of Pharmacology,5
-13,Journal Of Visualized Experiements,Journal Of Visualized Experiments,5
-14,Pyschological Medicine,Psychological Medicine,5
-15,Inyernational Journal Of Epidemiology,International Journal Of Epidemiology,5
-16,International Joural Of Epidemiology,International Journal Of Epidemiology,5
-17,Ecology Letters,Biology Letters,4
-18,Bms Genomics,Bmc Genomics,4
-19,Bmc Genetics,Bmc Genomics,4
-20,Bmc Genomics.,Bmc Genomics,4
-21,Antimicobial Agents And Chemotherapy,Antimicrobial Agents And Chemotherapy,4
-22,Antimicrobial Agfents And Chemotherapy,Antimicrobial Agents And Chemotherapy,4
-23,The Americal Journal Of Human Genetics,The American Journal Of Human Genetics,4
-24,Nan,Pain,4
-25,Gene,Bone,3
-26,Dev. World Bioeth,Dev World Bioeth.,3
-27,Genetic Epidemology,Genetic Epidemiology,3
-28,Molecular Pain,Molecular Brain,2
-29,Nan,Nano,2
-30,Behaviour Research And Therapy,Behavior Research And Therapy,2
-31,Jounral Of Clinical Microbiology,Journal Of Clinical Microbiology,2
-32,Trends In Neuroscience,Trends In Neurosciences,2
-33,Biology,Virology,2
-34,Britsh Journal Of Psychiatry,British Journal Of Psychiatry,2
-35,Journal Of Behaviour Therapy And Experimental Psychiatry,Journal Of Behavior Therapy And Experimental Psychiatry,2
-36,Journal Of Biol Chemistry,Journal of Biol Chemistry,1
-37,Pflugers Archiv,Pflugers Archive,1
-38,Bmc Genomics.,Bms Genomics,1
-39,British Journal Of Opthalmology,British Journal Of Ophthalmology,1
-40,Current Opinions In Neurobiology,Current Opinion In Neurobiology,1
-41,Developmental Science,Development Science,1
-42,Americal Journal Of Psychiatry,American Journal Of Psychiatry,1
-43,Angewandte Chemie,Angewande Chemie,1
-44,Antimicrobial Agfents And Chemotherapy,Antimicobial Agents And Chemotherapy,1
-45,"Acta Crystallographica Section D, Biological Crystallography",Acta Crystallographica Section D: Biological Crystallography,1
-46,Acta F,Acta D,1
-47,Biological Chemistry,Biologicial Chemistry,1
-48,Biochimica Et Biophysica Acta - Molecular Basis Of Disease,Biochimica Et Bioohysica Acta - Molecular Basis Of Disease,1
-49,International Joural Of Epidemiology,Inyernational Journal Of Epidemiology,1
-50,Journal Of Clinical Endocrinology,Journal Od Clinical Endocrinology,1
-51,International Journal Of Behavioural Nutrition And Physical Activity,International Journal Of Behavioral Nutrition And Physical Activity,1
-52,Journal Of Autism And Developmental Disorders,Journal Of Autism And Development Disorders,1
-53,European Child And Adolescent Psychiatry,European Child And Adolescent Psychiatty,1
-54,Health,Heart,1
-55,Fungal Ecology,Fungal Biology,1
+3,Development Cell,Developmental Cell,12
+4,Bjp,Bmj,10
+5,Plos,Plos 1,7
+6,Journal of Medicial Chemistry,Journal Of Medicinal Chemistry,7
+7,Plos,Pnas,6
+8,Rna,Pnas,6
+9,Pntd,Pnas,6
+10,"Journal Of The Royal Society, Interface",Journal Of The Royal Society Interface,6
+11,British Jounal Of Pharmacology,British Journal Of Pharmacology,5
+12,Inyernational Journal Of Epidemiology,International Journal Of Epidemiology,5
+13,International Joural Of Epidemiology,International Journal Of Epidemiology,5
+14,Journal Of Visualized Experiements,Journal Of Visualized Experiments,5
+15,Ecology Letters,Biology Letters,4
+16,Nan,Pain,4
+17,The Americal Journal Of Human Genetics,The American Journal Of Human Genetics,4
+18,Antimicobial Agents And Chemotherapy,Antimicrobial Agents And Chemotherapy,4
+19,Antimicrobial Agfents And Chemotherapy,Antimicrobial Agents And Chemotherapy,4
+20,Bms Genomics,Bmc Genomics,4
+21,Bmc Genomics.,Bmc Genomics,4
+22,Bmc Genetics,Bmc Genomics,4
+23,Bone,Gene,3
+24,Molecular Pain,Molecular Brain,2
+25,Journal Of Behaviour Therapy And Experimental Psychiatry,Journal Of Behavior Therapy And Experimental Psychiatry,2
+26,Jounral Of Clinical Microbiology,Journal Of Clinical Microbiology,2
+27,Nan,Nano,2
+28,Behaviour Research And Therapy,Behavior Research And Therapy,2
+29,Britsh Journal Of Psychiatry,British Journal Of Psychiatry,2
+30,Biology,Virology,2
+31,Trends In Neuroscience,Trends In Neurosciences,2
+32,Journal Of Biol Chemistry,Journal of Biol Chemistry,1
+33,British Journal Of Opthalmology,British Journal Of Ophthalmology,1
+34,Bmc Genomics.,Bms Genomics,1
+35,Current Opinion In Neurobiology,Current Opinions In Neurobiology,1
+36,Americal Journal Of Psychiatry,American Journal Of Psychiatry,1
+37,Antimicrobial Agfents And Chemotherapy,Antimicobial Agents And Chemotherapy,1
+38,"Acta Crystallographica Section D, Biological Crystallography",Acta Crystallographica Section D: Biological Crystallography,1
+39,Acta F,Acta D,1
+40,Biochimica Et Biophysica Acta - Molecular Basis Of Disease,Biochimica Et Bioohysica Acta - Molecular Basis Of Disease,1
+41,International Joural Of Epidemiology,Inyernational Journal Of Epidemiology,1
+42,Journal Of Clinical Endocrinology,Journal Od Clinical Endocrinology,1
+43,International Journal Of Behavioural Nutrition And Physical Activity,International Journal Of Behavioral Nutrition And Physical Activity,1
+44,Journal Of Autism And Developmental Disorders,Journal Of Autism And Development Disorders,1
+45,European Child And Adolescent Psychiatty,European Child And Adolescent Psychiatry,1
+46,Health,Heart,1
+47,Fungal Ecology,Fungal Biology,1
